@@ -66,3 +66,20 @@
 - 我能不能把它写进 README 或简历？
 
 如果不能，说明还没有真正掌握。
+
+## 推荐资源
+
+### 官方文档优先
+- OpenAI Platform Docs: https://platform.openai.com/docs
+- Anthropic Docs: https://docs.anthropic.com/
+- Model Context Protocol: https://modelcontextprotocol.io/
+
+### 代码与系统优先
+- Hermes Agent: https://github.com/NousResearch/hermes-agent
+- OpenClaw: https://github.com/edmundpf/openclaw
+- LangGraph: https://github.com/langchain-ai/langgraph
+
+### 学习建议
+- 先看官方能力说明，再看示例代码
+- 看完概念后马上自己实现一个最小版本
+- 不要只收藏资源，必须配套项目练习
