@@ -16,6 +16,18 @@
 8. [07-求职与作品集](docs/07-job-search-and-portfolio.md)
 9. [08-12 周学习计划](docs/08-12-week-plan.md)
 
+## 项目模板
+
+如果你想直接把学习路线变成作品集，可以按这个顺序做项目：
+
+1. [CLI Tool-Using Agent](projects/01-cli-tool-using-agent.md)
+2. [Research / RAG Agent](projects/02-research-rag-agent.md)
+3. [Coding / Workflow Agent](projects/03-coding-workflow-agent.md)
+4. [Production-Style Agent System](projects/04-production-style-agent-system.md)
+
+项目模板总览：
+- [projects/README.md](projects/README.md)
+
 ## 你会获得什么
 
 完成这条路线后，你应该能够：
@@ -39,6 +51,13 @@ docs/
 ├── 06-ecosystem-and-tools.md
 ├── 07-job-search-and-portfolio.md
 └── 08-12-week-plan.md
+
+projects/
+├── README.md
+├── 01-cli-tool-using-agent.md
+├── 02-research-rag-agent.md
+├── 03-coding-workflow-agent.md
+└── 04-production-style-agent-system.md
 ```
 
 ## 适合谁
