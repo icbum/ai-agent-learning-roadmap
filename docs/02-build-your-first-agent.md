@@ -84,3 +84,16 @@ Agent 场景下，prompt 重点不是花哨，而是：
 - 从零写出单 Agent loop
 - 理解 tool calling 的完整闭环
 - 做出一个可运行的 CLI Agent 项目
+
+## 推荐资源
+
+- OpenAI function calling docs
+  https://platform.openai.com/docs/guides/function-calling
+- Anthropic tool use docs
+  https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview
+- PydanticAI
+  https://ai.pydantic.dev/
+- Instructor
+  https://python.useinstructor.com/
+
+建议：这一章边看边写，不要只读文档。最有效的练习是手写一个支持工具调用的 CLI Agent。
