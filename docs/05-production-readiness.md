@@ -94,3 +94,16 @@ Agent 最大的风险之一就是“能力太强”。
 - 不再只会 demo，而是具备基础生产能力
 - 让项目支撑面试深入提问
 - 用作品证明自己具备 Agent 工程岗位需要的成熟度
+
+## 推荐资源
+
+- Langfuse
+  https://langfuse.com/
+- Weights & Biases Weave
+  https://wandb.ai/site/weave/
+- OpenAI Evals
+  https://github.com/openai/evals
+- Arize Phoenix
+  https://phoenix.arize.com/
+
+建议：这一章要开始像工程师一样思考“如何证明系统稳定、可观测、可评估”。
