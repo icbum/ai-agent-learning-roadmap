@@ -60,3 +60,16 @@
 - 知道什么时候该用多 Agent，什么时候不该用
 - 实现一个基本的 orchestrated workflow
 - 解释 Hermes / Claude Code / OpenClaw 一类系统的关键设计思路
+
+## 推荐资源
+
+- LangGraph docs
+  https://langchain-ai.github.io/langgraph/
+- Microsoft AutoGen
+  https://microsoft.github.io/autogen/
+- CrewAI docs
+  https://docs.crewai.com/
+- Hermes Agent repo
+  https://github.com/NousResearch/hermes-agent
+
+建议：这一章不要只看框架 API，重点看任务边界、状态流动和失败恢复。
