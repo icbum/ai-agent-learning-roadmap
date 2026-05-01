@@ -57,3 +57,16 @@ MCP 很值得学，因为它直接关系到 Agent 如何接入外部工具生态
 - 说清主要 Agent 框架和系统分别在解决什么问题
 - 判断一个工具更适合 workflow、单 Agent 还是多 Agent
 - 把 Hermes、Claude Code、OpenClaw 放到正确的工程语境里理解
+
+## 推荐资源
+
+- Model Context Protocol
+  https://modelcontextprotocol.io/
+- Claude Code docs
+  https://docs.anthropic.com/en/docs/claude-code/overview
+- Hermes Agent repo
+  https://github.com/NousResearch/hermes-agent
+- OpenClaw repo
+  https://github.com/edmundpf/openclaw
+
+建议：这一章的任务不是“学会所有工具”，而是建立一张自己的 Agent 生态地图。
