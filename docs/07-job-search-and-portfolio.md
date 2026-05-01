@@ -65,3 +65,14 @@
 - 把 Agent 工程能力写进简历而不是堆工具名
 - 用 GitHub 项目证明自己能做真实系统
 - 在面试中清楚讲出设计取舍和工程思路
+
+## 推荐资源
+
+- GitHub README 指南
+  https://www.makeareadme.com/
+- Awesome README
+  https://github.com/matiassingers/awesome-readme
+- The Pragmatic Engineer
+  https://newsletter.pragmaticengineer.com/
+
+建议：这一章不要只写清单，要把每个项目都包装成“可展示、可面试、可复盘”的作品。
