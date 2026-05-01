@@ -1,4 +1,4 @@
-# AI Agent 学习路线图
+# AI Agent应用学习路线
 
 面向具备 Python、API 调用、Linux/终端基础，并希望进入 AI Agent 工程岗位的开发者。
 
