@@ -84,3 +84,16 @@ RAG 是很多 Agent 项目的基础能力。
 - 把 memory / RAG / planning 接入真实项目
 - 理解 Agent 的“持续执行”而不是单轮回答
 - 拥有第二个更接近真实产品的作品
+
+## 推荐资源
+
+- Pinecone learn / RAG basics
+  https://www.pinecone.io/learn/retrieval-augmented-generation/
+- DSPy
+  https://dspy.ai/
+- LlamaIndex
+  https://www.llamaindex.ai/
+- LangChain memory / retrieval docs
+  https://python.langchain.com/
+
+建议：这一章最重要的不是收集名词，而是完成一次真实的“文档知识库 -> 检索 -> 引用输出”闭环。
