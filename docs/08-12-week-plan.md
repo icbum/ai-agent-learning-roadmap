@@ -57,3 +57,14 @@
 - 1 个 RAG / Research Agent 或 Coding Assistant
 - 1 个基础 Multi-Agent / Workflow 项目
 - 1 套能用于求职表达的 README、项目说明和架构讲解材料
+
+## 推荐资源
+
+- roadmap.sh（学习路线组织方式可参考）
+  https://roadmap.sh/
+- Papers with Code（扩展阅读）
+  https://paperswithcode.com/
+- Hugging Face Learn
+  https://huggingface.co/learn
+
+建议：这 12 周不是为了“学完所有东西”，而是为了产出一组能证明能力的项目。
